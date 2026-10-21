@@ -1,0 +1,2 @@
+# ConcentrationCardGame
+Pyscriptを使用した神経衰弱ゲームアプリ
